@@ -8,7 +8,6 @@
 // document.getElementsById("answer").innerHtml = paragraph;
 
 
-
 $(function() {
 
     // hide the story from view
