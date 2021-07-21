@@ -1,11 +1,4 @@
-// function createParagraph(){
-//     var wordOne = document.getElementsById("wordOne").value;
-//     var wordTwo = document.getElementsById("wordOne").value;
-// }
 
-// var paragraph = "<p> Today, every student has a computer small enough to fit into his  " + wordOne +" ."
-
-// document.getElementsById("answer").innerHtml = paragraph;
 
 
 $(function() {
