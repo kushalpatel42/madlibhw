@@ -1,6 +1,17 @@
+body {
+    background-image: linear-gradient(to right, rgb(126, 230, 67),rgb(199, 247, 181),green,blue,violet);
+    }
 
+h1 {
+    
+   font-size: 30px;
+   text-align: center;
+   
+}
 
 .container {
     padding-top: 50px;
     max-width: 500px;
   }
+
+ 
